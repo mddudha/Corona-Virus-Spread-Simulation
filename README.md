@@ -26,8 +26,3 @@ The simulator creates a window titled `CORONA VIRUS SIMULATOR`, where 100 indivi
 - The `City` class maintains and animates a population of `People` objects.
 - Each `People` object is assigned a status (e.g., healthy, infected) and moves around the screen.
 - Collisions or close interactions between infected and healthy people can simulate virus transmission.
-
-## 🚀 Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/corona-virus-simulator.git
